@@ -80,3 +80,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),  # Ensure this directory exists
 ]
+
+CSRF_TRUSTED_ORIGINS = ['https://kmo-nss.onrender.com']
