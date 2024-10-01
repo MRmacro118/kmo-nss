@@ -8,7 +8,8 @@ SECRET_KEY = 'your-secret-key'
 DEBUG = True
 
 #ALLOWED_HOSTS = ['localhost', '127.0.0.1', '192.168.1.42']  # Add your local IP
-ALLOWED_HOSTS = ['*']
+# ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['.vercel.app']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
