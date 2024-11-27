@@ -18,3 +18,8 @@ pip install -r requirements.txt
 
 
 https://drive.google.com/file/d/19gQTsVl7nLeV8lappe-5NmtfiKZKOC2V/view?usp=drivesdk
+
+
+
+
+https://sdl6y-my.sharepoint.com/:i:/g/personal/sidheeque_pk_sdl6y_onmicrosoft_com/EficWo9ZZ-ZBqGfy-KLeIC0BuymZeo-2YkxK7SDRDESyhg?e=DiYfra
